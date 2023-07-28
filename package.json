@@ -9,8 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@3id/connect": "^0.4.1",
+    "@ceramicnetwork/3id-did-resolver": "^2.17.0",
+    "@ceramicnetwork/blockchain-utils-linking": "^2.13.0",
+    "@ceramicnetwork/http-client": "^2.21.0",
+    "@ceramicstudio/idx": "^0.12.2",
+    "@composedb/client": "^0.4.4",
+    "@didtools/pkh-ethereum": "^0.3.0",
+    "@glazed/did-datastore": "^0.3.2",
+    "@glazed/did-session": "^0.1.1",
+    "did-session": "^2.0.1",
+    "key-did-provider-ed25519": "^3.0.1",
+    "key-did-resolver": "^3.0.0",
     "next": "13.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sass": "^1.62.0"
   }
 }
